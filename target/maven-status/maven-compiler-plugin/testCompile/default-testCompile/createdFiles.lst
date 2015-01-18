@@ -1,0 +1,6 @@
+bmicalculator/pages/HomePage.class
+bmicalculator/appiumtest/AppiumTest.class
+bmicalculator/test/stepdef/Hooks.class
+bmicalculator/test/stepdef/BMI_Calc_StepDef.class
+bmicalculator/pages/DriverFactory.class
+bmicalculator/test/RunCukesTest.class
